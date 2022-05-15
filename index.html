@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+    <head>
+        <meta charset="utf-8">
+        <meta name="author" content="Hebert Santana">
+        <title>Contador de Pixel</title>
+        <link rel="shortcut icon" href="./assets/img/favicon.ico" type="image/x-icon">
+        <meta name="viewport" content="width=device-width,initial-scale=1.0">
+        <link rel="stylesheet" href="style.css">
+    </head>
+
+<!-- CABEÇALHO (INÍCIO) -->
+    <body>
+        <header>
+            <h1>CONTADOR DE PIXEL</h1>
+        </header>
+<!-- CABEÇALHO (FIM) -->
+
+<!-- CARREGAR IMAGEM (INÍCIO) -->
+<main>
+<section id="container">    
+    <div>
+        <label for="image">Escolha uma imagem:</label>
+        <input type="file" id="image" name="image" accept="image/png, image/jpeg">
+    </div>
+    <canvas id="canvas"></canvas> 
+</section>
+
+<!-- CARREGAR IMAGEM (MEIO) -->
+
+<section id="pixel-cores" class="pixel-cores invisible">
+    <h2>PÍXEIS</h2>                
+    <p><span id="color-count"></span> cores diferentes</p>
+    <div id="amostra-de-cores" class="amostra-de-cores">
+    </div>
+</section> 
+</main>
+
+<div id="carregando" class="invisible">
+    <p>CARREGANDO...</p>
+    <img src="./assets/img/jeneregrete.gif">
+</div>
+
+<!-- CARREGAR IMAGEM (FIM) -->
+   
+
+
+<!-- FOOTER (INÍCIO) -->
+        <footer>
+            <p>Página em desenvolvimento por:  <a href="https://www.linkedin.com/in/hebert-santana/" ><span>Hebert Santana</span></a></p>
+        </footer> 
+<!-- FOOTER (FIM) -->
+
+        <script src="counter.js"></script>
+        <script src="main.js"></script>
+    </body>
+</html>

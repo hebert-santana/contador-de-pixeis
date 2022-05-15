@@ -1,0 +1,130 @@
+html, body {
+    height: 100%;
+    margin: 0;       
+}
+
+body { 
+    display: flex;
+    flex-direction: column;
+}
+
+h1, 
+h2{   
+    text-align: center;
+}
+
+h2 {
+    background: black;
+    color: white;
+    width: 100%;
+    padding: 20px;
+    margin: 0;
+    margin-bottom: 10px;
+    box-sizing:border-box;   
+}
+
+header {
+    background: black;  
+}
+
+header h1 {
+    color: white;
+}
+
+main {
+    flex: auto;
+}
+
+
+
+canvas {
+    display: none;
+}
+
+.invisible {
+    visibility: hidden;
+}
+
+#container,
+.pixel-cores {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.amostra-de-cores {
+    display: flex;
+    flex-wrap: wrap;
+    margin-left: 50px;
+}
+
+.color-swatch-container {
+    display: flex;
+    align-items: center;
+    width: 100px;
+}
+
+.color-swatch {
+    display: inline-block;
+    border: solid;
+    margin: 10px 5px 10px 20px;
+    width: 30px;
+    height: 30px;
+}
+
+#container img {    
+    width: auto;
+    height: auto;
+    max-width: 450px;
+    max-height: 250px;
+    background-size: contain;
+    margin: 10px;
+}
+
+#container div{
+    margin: 30px;
+}
+
+
+
+/* CARREGANDO IMAGEM */
+#carregando {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    background: black;
+    position: fixed;
+    width: 100%;
+    height: 100%;
+    top: 0;
+    left: 0;
+    z-index: 10;
+}
+
+#carregando p {
+    font-size: 50px;
+    text-align: center;
+    color: white;
+
+}
+
+#carregando a{
+    align-items: center;
+}
+
+
+/*FOOTER */
+footer {
+    display: flex;
+    flex-shrink: 0;
+    align-items: center;
+    justify-content: center;
+    height: 30px;
+    background: black;
+}
+
+footer p {
+    color: white;
+}
+

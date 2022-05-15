@@ -1,1 +1,1 @@
-# contador-de-pixeis
+# contador-de-pixel
