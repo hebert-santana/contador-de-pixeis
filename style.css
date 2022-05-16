@@ -1,12 +1,20 @@
+
 html, body {
     height: 100%;
     margin: 0;       
 }
 
+
+
 body { 
     display: flex;
     flex-direction: column;
+    margin: 0;
+    padding: 0;
+    background-color: blueviolet;
 }
+
+
 
 h1, 
 h2{   
@@ -23,13 +31,33 @@ h2 {
     box-sizing:border-box;   
 }
 
-header {
-    background: black;  
-}
+/* HEADER COM ANIMAÇÃO NA BORDA */
+
+
+
+
+
+
+
+
+
+/* FINAL DA ANIMAÇÃO */
 
 header h1 {
     color: white;
+    font-family: "VT323";
+    font-size: 50px;
+    letter-spacing: 2px;
+    margin: auto;
+    background-color: rgb(98, 4, 185);
+    border: 1px dotted white;
+    width: 50%
+
+
+    
 }
+/* FINAL HEADER */
+
 
 main {
     flex: auto;
@@ -121,10 +149,22 @@ footer {
     align-items: center;
     justify-content: center;
     height: 30px;
-    background: black;
+    background: rgb(98, 4, 185);
+    border-top: 1px dotted white;
+    margin: auto;
+    width: 100%;
 }
 
 footer p {
     color: white;
+    font-family: "VT323";
 }
+
+footer span{
+    color:black
+}
+
+
+
+
 
