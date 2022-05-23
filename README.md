@@ -7,5 +7,5 @@ https://hebert-santana.github.io/contador-de-pixels/
 <h1> Demonstração </h1>
 
 <div style="display: inline_block">
-    <img align="center" alt="demonstração" src="./assets/img/demonstracao.png" style="border: 1px solid white" />
+    <img align="center" alt="demonstração" src="./assets/img/demonstracao.png" style="border: 5px solid white" />
 </div>
