@@ -8,6 +8,12 @@ https://hebert-santana.github.io/contador-de-pixels/
 <hr>
 <h1> Demonstração </h1>
 
+~~~ javascript
+
+by Hebert Santana
+
+~~~~
+
 
 <img align="center" alt="demonstração" src="./assets/img/demonstracao.png" />
 
