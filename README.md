@@ -1,17 +1,32 @@
 # CONTADOR DE PIXELS
+## Projeto (finalizado :white_check_mark:)
 
-A ideia do projeto é você carregar uma imagem qualquer (.PNG ou .JPG) e retornar a quantidade de PIXELS há na imagem e especificar quantos PIXELS de cada cor há na imagem carregada.
+A ideia do projeto é você carregar uma imagem qualquer (.PNG ou .JPG) e retornar a quantidade de <strong>PIXELS</strong> há na imagem e especificar quantos PIXELS de cada cor há na imagem carregada.
+
+## 🛠️ Recursos
+
+* HTML
+* CSS
+* Javascript
+
+## 💻 Demonstração
+ <p align="center">
+ <img align="center" alt="demonstração" src="./" />
+ </p>
 
 
-<hr>
-<h1> Demonstração </h1>
+<p align="center">
+<https://hebert-santana.github.io/churrascometro/>
+</p>
 
+## Autor
 ~~~ javascript
-
-by Hebert Santana
-
-~~~~
+Hebert Santana
+~~~
 
 
-<img align="center" alt="demonstração" src="./assets/img/demonstracao.png" />
+
+
+
+
 
