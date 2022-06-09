@@ -11,12 +11,12 @@ A ideia do projeto é você carregar uma imagem qualquer (.PNG ou .JPG) e retorn
 
 ## 💻 Demonstração
  <p align="center">
- <img align="center" width="681" height="363" alt="demonstração" src="./assets/img/mario.gif" />
+ <img align="center" width="681" height="307" alt="demonstração" src="./assets/img/mario.gif" />
  </p>
 
 
 <p align="center">
-<https://hebert-santana.github.io/churrascometro/>
+<https://hebert-santana.github.io/pixel-counter/>
 </p>
 
 ## Autor
