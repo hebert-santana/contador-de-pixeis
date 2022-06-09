@@ -11,7 +11,7 @@ A ideia do projeto é você carregar uma imagem qualquer (.PNG ou .JPG) e retorn
 
 ## 💻 Demonstração
  <p align="center">
- <img align="center" alt="demonstração" src="./" />
+ <img align="center" width="681" height="363" alt="demonstração" src="./assets/img/mario.gif" />
  </p>
 
 
