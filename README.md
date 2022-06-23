@@ -17,7 +17,7 @@ A ideia do projeto é você carregar uma imagem qualquer (.PNG ou .JPG) e retorn
 
 ## 🌐 Site
 
-<https://hebert-santana.github.io/pixels-counter/>
+<https://hebert-santana.github.io/js-pixelcounter/>
 
 ## Autor
 ~~~ javascript
