@@ -19,10 +19,10 @@ A ideia do projeto é você carregar uma imagem qualquer (.PNG ou .JPG) e retorn
 
 <https://hebert-santana.github.io/js-pixelcounter/>
 
-## Autor
-~~~ javascript
-Hebert Santana
-~~~
+<hr>
+
+### Autor
+[<img src="https://avatars.githubusercontent.com/u/102166830?v=4" width=80><br><sub>Hebert Santana</sub>](https://github.com/hebert-santana)
 
 
 
